@@ -28,5 +28,12 @@ Here are some ideas to get you started:
 ![](https://streak-stats.demolab.com/?user=Ridhwan077&theme=merko&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Ridhwan077&theme=merko&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
+# My Contribution
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/[USERNAME]/[USERNAME]/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/[USERNAME]/[USERNAME]/output/pacman-contribution-graph.svg">
+  <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/[USERNAME]/[USERNAME]/output/pacman-contribution-graph.svg">
+</picture>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
