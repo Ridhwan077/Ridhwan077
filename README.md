@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+![Ridhwan077](img/github-header-banner.png)
+
 <!--
 **Ridhwan077/Ridhwan077** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,7 +17,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # 💫 About Me:
-- 📖 I am currently a university student.<br>- 🌱 I’m currently learning Backend Fundamental<br>- 🔭 i am now looking for work experience to fix small bugs and building a backend system.<br>
+<br>- 📖 I am currently a university student.<br>- 🌱 I’m currently learning Backend Fundamental<br>- 🔭 i am now looking for work experience to fix small bugs and building a backend system.<br>
 
 
 ## 🌐 Socials:
