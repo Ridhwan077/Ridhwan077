@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 
 # 🚀 Top Projects
 
-[![WAQT](https://github-readme-stats.vercel.app/api/pin/?username=Ridhwan077&repo=waqt-capstone&theme=merko)](https://github.com/Ridhwan077/waqt-capstone)
+[![WAQT](https://github-readme-stats.vercel.app/api/pin/?username=Ridhwan077&repo=waqt-capstone&theme=merko&show_owner=true)](https://github.com/Ridhwan077/waqt-capstone)
 
 <td width="50%">
 
