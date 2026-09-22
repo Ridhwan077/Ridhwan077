@@ -34,6 +34,11 @@ Here are some ideas to get you started:
 ![](https://streak-stats.demolab.com/?user=Ridhwan077&theme=merko&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Ridhwan077&theme=merko&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
+# 🚀 Top Projects
+
+<a href="https://github.com/Ridhwan077/waqt-capstone">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Ridhwan077&repo=waqt-capstone&theme=github_dark" /> </a>
+
 # My Contribution
 
 <picture>
