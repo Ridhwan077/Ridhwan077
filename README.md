@@ -36,9 +36,13 @@ Here are some ideas to get you started:
 
 # 🚀 Top Projects
 
-[![WAQT](https://github-readme-stats.vercel.app/api/pin/?username=Ridhwan077&repo=waqt-capstone&theme=merko&show_owner=true)](https://github.com/Ridhwan077/waqt-capstone)
+<div align="center">
+  <a href="https://github.com/Ridhwan077/waqt-capstone">
+    <img src="https://github-readme-stats.shion.dev/api/pin/?username=Ridhwan077&repo=waqt-capstone&theme=merko&show_owner=true" alt="WAQT Capstone Card" />
+  </a>
+</div>
 
-<td width="50%">
+
 
 # My Contribution
 
